@@ -1,0 +1,70 @@
+i{
+color: blue;
+}
+
+h1,h2{
+    border: 6px solid green;
+    display: inline-block;
+    height: 40px;
+    background-color: chocolate;
+}
+
+
+a{
+    display: block;
+}
+.width{
+    width=500px;
+    margin:auto;
+    border: 2px solid purple;
+}
+
+.width2{
+    width=500px;
+    margin:auto;
+    border: 2px solid green;
+}
+.box1{
+    height: 200px;
+    width: 400px;
+    border: 2px solid orange;
+    position: relative;
+    left: 100px;
+    background-color:currentColor;
+}
+.box2{
+    position:absolute;
+height: 100px;
+width: 100px;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    background-color:cyan;
+    border-radius: 60%;
+}
+
+.st{
+    position: sticky;
+    top: 0;
+    border:2px solid yellow;
+    background-color: aqua;
+}
+
+.fix{
+    position: fixed;
+    border: 2px solid purple;
+    bottom: 0;
+    right: 0;
+    background-color: chartreuse;
+}
+
+
+
+
+
+
+
+
+
