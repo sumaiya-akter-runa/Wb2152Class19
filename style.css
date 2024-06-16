@@ -32,15 +32,15 @@ a{
     left: 100px;
     background-color:currentColor;
 }
-.box2{
-    position:absolute;
-height: 100px;
-width: 100px;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    margin: auto;
+.box2{ 
+    po 
+height 
+width: 
+    to 
+    ri 
+    le 
+    bo 
+    ma 
     background-color:cyan;
     border-radius: 60%;
 }
